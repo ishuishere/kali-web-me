@@ -29,7 +29,7 @@ heroku create {appname}
 
 
 ```
-git clone https://github.com/kcubeterm/kali-web
+https://github.com/ishuishere/kali-web-me
 cd kali-web
 ```
 now open heroku.yml and replace `username` and `password` with any credentials 
